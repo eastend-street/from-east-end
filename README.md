@@ -1,9 +1,4 @@
-# gatsby-starter-blog
-Gatsby starter for creating a blog
+# From East-end
+This is my blog with GatsbyJS
 
-Install this starter (assuming Gatsby is installed) by running from your CLI:
-
-`gatsby new gatsby-blog https://github.com/gatsbyjs/gatsby-starter-blog`
-
-## Running in development
-`gatsby develop`
+[From East-end](https://eastend-street.github.io/from-east-end/)
