@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[From East-end]]></title><description><![CDATA[From East-end]]></description><link>https://gatsbyjs.github.io/from-east-end/</link><generator>RSS for Node</generator><lastBuildDate>Tue, 23 Oct 2018 09:42:00 GMT</lastBuildDate><item><title><![CDATA[Creating the blog with Gatsby.js]]></title><description><![CDATA[This blog is made of
+ GatsbyJS . In creating blog, I had to choice what is the best way to my blog. At first, WordPress came up in my mind…]]></description><link>https://gatsbyjs.github.io/from-east-end//create-blog-gatsby/</link><guid isPermaLink="false">https://gatsbyjs.github.io/from-east-end//create-blog-gatsby/</guid><pubDate>Mon, 08 Oct 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/from-east-end/static/logo-gatsby-3c37ea0a2611c7feda7ebef2ef78f554-30631.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 42.0625%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAIABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAMF/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEAMQAAAB2AXB/8QAGBAAAgMAAAAAAAAAAAAAAAAAARMAIzH/2gAIAQEAAQUCLGWQZ//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABoQAAAHAAAAAAAAAAAAAAAAAAACEBESITH/2gAIAQEABj8CpojCp//EABgQAQEAAwAAAAAAAAAAAAAAABEAMXHh/9oACAEBAAE/IdAz3SDm/9oADAMBAAIAAwAAABD4D//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABURAQEAAAAAAAAAAAAAAAAAAAEQ/9oACAECAQE/EFn/xAAbEAEAAgIDAAAAAAAAAAAAAAABESEAMUGRof/aAAgBAQABPxCjKxScx3vEwhI3cXzEkIIsGYc//9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Gatsby Logo&quot;
+        title=&quot;&quot;
+        src=&quot;/from-east-end/static/logo-gatsby-3c37ea0a2611c7feda7ebef2ef78f554-f8fb9.jpg&quot;
+        srcset=&quot;/from-east-end/static/logo-gatsby-3c37ea0a2611c7feda7ebef2ef78f554-e8976.jpg 148w,
+/from-east-end/static/logo-gatsby-3c37ea0a2611c7feda7ebef2ef78f554-63df2.jpg 295w,
+/from-east-end/static/logo-gatsby-3c37ea0a2611c7feda7ebef2ef78f554-f8fb9.jpg 590w,
+/from-east-end/static/logo-gatsby-3c37ea0a2611c7feda7ebef2ef78f554-85e3d.jpg 885w,
+/from-east-end/static/logo-gatsby-3c37ea0a2611c7feda7ebef2ef78f554-d1924.jpg 1180w,
+/from-east-end/static/logo-gatsby-3c37ea0a2611c7feda7ebef2ef78f554-30631.jpg 1600w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;This blog is made of
+&lt;a href=&quot;https://www.gatsbyjs.org&quot;&gt;GatsbyJS&lt;/a&gt;.&lt;br&gt;
+In creating blog, I had to choice what is the best way to my blog.&lt;br&gt;
+At first, WordPress came up in my mind. It’s so popular and easy to use.
+But I didn’t have to lots of functions and wanted to write front-end.
+Then I read some articles and found GatsbyJS. So I gonna describe the reason for choosing.&lt;/p&gt;
+&lt;h2&gt;1. Static site&lt;/h2&gt;
+&lt;p&gt;Main reason is GatsbyJS is static site generator, not dynamic site like WordPress.
+WordPress is CMS and creates database. It needs update plugin. But I might not be access this blog every day, so management seems to be troublesome in WordPress. At this point, static site generator don’t have to care about update well.&lt;br&gt;
+Also, static site is fast. It’s not need database, just web pages. And I didn’t need authentication, chose this.&lt;/p&gt;
+&lt;h2&gt;2. React based&lt;/h2&gt;
+&lt;p&gt;GatsbyJS is
+&lt;a href=&quot;https://reactjs.orgs&quot;&gt;React&lt;/a&gt;
+based. I thought customize theme, but I didn’t want to write php tag. Also there are lots of theme for WordPress, it has no meaning to make original one. But React, I’m able to write style and learn how to write JSX, modern development methods. It maybe useful for a job as front-end.&lt;/p&gt;
+&lt;h2&gt;3. Markdown&lt;/h2&gt;
+&lt;p&gt;Articles are able to use markdown. Ashamed to say, I’m not really used to this, so I have to learn. In addition, it’s possible to select editor. Cause I often use Visual Studio Code and Vim, it’s good way to use markdown.&lt;/p&gt;
+&lt;h3&gt;Other options&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;WordPress + &lt;a href=&quot;https://en.kusanagi.tokyo/about/&quot;&gt;KUSANAGI&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;KUSANAGI is a fast WordPress virtual machine. If I chose WordPress, wanna try this.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://vuepress.vuejs.org&quot;&gt;VuePress&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;It’s a vue based static site generator. I’ve experienced vue.js project before, this time will try to React.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://medium.com&quot;&gt;Medium&lt;/a&gt; or &lt;a href=&quot;https://note.mu&quot;&gt;note&lt;/a&gt;
+As you know, they are web services for writing. note is similar service to Medium. It’s very popular in Japan and good design.&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[About this blog]]></title><description><![CDATA[Hello. In this blog, I’ll write about tech and introduction of Tokyo. Also English practice. About me Front-end engineer, living in Tokyo…]]></description><link>https://gatsbyjs.github.io/from-east-end//about-this-blog/</link><guid isPermaLink="false">https://gatsbyjs.github.io/from-east-end//about-this-blog/</guid><pubDate>Fri, 05 Oct 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Hello. In this blog, I’ll write about tech and introduction of Tokyo.&lt;br&gt;
+Also English practice.&lt;/p&gt;
+&lt;h2&gt;About me&lt;/h2&gt;
+&lt;p&gt;Front-end engineer, living in Tokyo, Japan, English beginner&lt;/p&gt;</content:encoded></item></channel></rss>
