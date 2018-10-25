@@ -31,7 +31,7 @@ class Bio extends React.Component {
             marginTop: 10,
           }}
         >
-          Front-end engineer, living in Tokyo, Japan, English beginner{' '}
+          Front-end engineer / living in Tokyo, Japan{' '}
         </p>
       </div>
     )

@@ -8,4 +8,4 @@ Also English practice.
 
 ## About me
 
-Front-end engineer, living in Tokyo, Japan, English beginner
+Front-end engineer / living in Tokyo, Japan

@@ -3,9 +3,9 @@ module.exports = {
     title: 'From East-end',
     author: 'East-end',
     description: '',
-    siteUrl: 'https://gatsbyjs.github.io/from-east-end/',
+    siteUrl: 'https://blog.from-east-end.net/',
   },
-  pathPrefix: '/from-east-end',
+  // pathPrefix: '/from-east-end',
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,
