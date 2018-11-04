@@ -1,12 +1,16 @@
 ---
-title: 【WIP】Cheap tourism plan in Shinjuku, Tokyo introduced by local
+title: 【WIP】The Best Plan for Tourists in Shinjuku, Tokyo to Save Money by a local
 date: "2018-11-01"
 ---
 
 ![Shinjuku landscape](./shinjuku-landscape.jpg)
 
-Recently, I read lonely planet Tokyo. There are many good information and introduced famous sightseeing spot. It's a really useful book. But I had a question about restaurants. Because I've never been there despite being a local people. Also, I was walking downtown, foreigners asked me about the way. They wanted to go some restaurant, but I didn't know there.
- I think tourist go to restaurants for tourist, also expensive. So in this article, I gonna introduce about "Cheap" tourism plan around Shinjuku by local. It's good for backpacker or students. 
+Recently, I read lonely planet Tokyo.  
+There are lots of good information about famous sightseeing spots in the city.
+It's a really useful book. But I had a question about restaurants because I'm not familiar with them despite being a local.  
+ Also, I was walking downtown, foreigners asked me about the way. They wanted to go to some restaurant, but I didn't know where that restaurant was. I think tourists like to go to restaurants but those restaurants are expensive.  
+  So in this article, as a local, I'm going to introduce affordable tourism plan around Shinjuku. This plan is good for backpackers and students.
+
 
 
 ## About Shinjuku station
@@ -15,7 +19,7 @@ Recently, I read lonely planet Tokyo. There are many good information and introd
  
 [Shinjuku](https://en.wikipedia.org/wiki/Shinjuku)
 is a big city in Tokyo. Shinjuku station is busiest station in the world. There are many sightseeing spots and restaurants. When meeting friend, I often
-go to restaurants in Shinjuku. There isn't for only tourist, also for local.
+go to restaurants in Shinjuku. In this station, their are many tourists and locals around.
 
 ## Tips
 ### 1. Go to Shinjuku from evening
