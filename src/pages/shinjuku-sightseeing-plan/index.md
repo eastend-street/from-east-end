@@ -18,8 +18,7 @@ It's a really useful book. But I had a question about restaurants because I'm no
 ![Kabukicho](./kabukicho.jpg)
  
 [Shinjuku](https://en.wikipedia.org/wiki/Shinjuku)
-is a big city in Tokyo. Shinjuku station is busiest station in the world. There are many sightseeing spots and restaurants. When meeting friend, I often
-go to restaurants in Shinjuku. In this station, their are many tourists and locals around.
+is a big city in Tokyo. Shinjuku station is the busiest station in the world. There are many sightseeing spots and restaurants. When meeting a friend, I often go to restaurants in Shinjuku. In this station, their are many tourists and locals around.
 
 ## Tips
 ### 1. Go to Shinjuku from evening
