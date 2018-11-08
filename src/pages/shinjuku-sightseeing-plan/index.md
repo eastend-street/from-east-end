@@ -12,7 +12,6 @@ It's a really useful book. But I had a question about restaurants because I'm no
   So in this article, as a local, I'm going to introduce affordable tourism plan around Shinjuku. This plan is good for backpackers and students.
 
 
-
 ## About Shinjuku station
 
 ![Kabukicho](./kabukicho.jpg)
@@ -22,16 +21,17 @@ is a big city in Tokyo. Shinjuku station is the busiest station in the world. Th
 
 ## Tips
 ### 1. Go to Shinjuku from evening
-In the afternoon, you should go to other city. Shinjuku is downtown, so at night is better. Billboard　is beautiful at night, you can go around enough even from night.
+In the afternoon, you should go to the other city. Shinjuku is downtown, so visiting at night is better. The billboards are beautiful at night and provide enough light, so you can go walking around even at night time.
 
 ### 1. Use chain stores and eat a lot
-You can eat so much Japanese food in chain restaurants. Local often go to chain restaurant and cheap. In Shinjuku, there are many chain restaurants.
+You can eat a lot Japanese food in chain restaurants. Locals often go to chain restaurant and enjoy meals for a low price. In Shinjuku, there are many chain restaurants.
 
 ### 2. Don't eat a lot in Japanese pubs
-In Japanese pubs, it calls 'Izakaya' in Japanese, you should just drink. Don't have to eat a lot. Because there are many good restaurants for eating. Also food in Japanese pubs is expensive. 
+In Japanese pubs, 'Izakaya' in Japanese, you should just have a drink. It's recommended not to have a meal in a japanese pub.
+Because there are so many good restaurants for eating. Also food in Japanese pubs is expensive. 
 
-### 3. Go to public bath, don't have to go to hot spring
-If you have a time permitting, I strong recommend to go to public bath, it calls 'Sento' in Japanese. Because you'll feel japanese local style.
+### 3. Go to public bath place, no need to spend money hot spring
+If you have available free time, I strongly recommend you to go and visit a public bath place, 'Sento' in Japanese. This is because you will feel the local japanese style.
 
 
 ## Plan
