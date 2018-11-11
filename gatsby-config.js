@@ -3,7 +3,7 @@ module.exports = {
     title: 'From East-end',
     author: 'East-end',
     description: '',
-    siteUrl: 'https://blog.from-east-end.net/',
+    siteUrl: 'https://from-east-end.net/',
   },
   // pathPrefix: '/from-east-end',
   plugins: [
@@ -55,8 +55,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `From East-end`,
+        short_name: `East-end`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,
@@ -72,5 +72,6 @@ module.exports = {
         pathToConfigModule: 'src/utils/typography',
       },
     },
+    `gatsby-plugin-react-helmet`,
   ],
 }
